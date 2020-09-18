@@ -10,6 +10,7 @@ This project is destinate to disponibilize an API to integrate with Arduindo com
 ## Installing
 ```bash
 git clone https://github.com/renanpigato/illumination_api.git
+npm install --save-dev
 npm run start
 ```
 
